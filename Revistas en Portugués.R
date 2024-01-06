@@ -1,3 +1,5 @@
+###ELaboración propia con colaboración del Dr. Niels Martínez Guevara y Lic. Omar Alexandro Texon Olguín###
+
 options(scipen = 999999)
 
 library(NLP) 
