@@ -1,3 +1,4 @@
+###ELaboración propia con colaboración del Dr. Niels Martínez Guevara y Lic. Omar Alexandro Texon Olguín###
 
 ### ARTÍCULOS DE MEMORIAS DE CONGRESOS ###
 
