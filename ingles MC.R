@@ -1,3 +1,5 @@
+###ELaboración propia con colaboración del Dr. Niels Martínez Guevara y Lic. Omar Alexandro Texon Olguín###
+
 install.packages("NLP") 
 install.packages("tm") # Para stopwords en español
 install.packages("tidyverse")
